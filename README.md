@@ -15,7 +15,7 @@
 ### :boat::ocean:항해99 참가
 ### 2022년 5월 9일 ~ 6월 25일
     
-#### [5/9~6/25 항해99 기록](https://github.com/saehwa95/hh99_daily)
+#### [5/9~6/25 항해99 일기](https://github.com/saehwa95/hh99_daily)
 #### [5/9~5/12 풀스택 미니프로젝트..그게 뭐죠..? 🤔](https://github.com/saehwa95/spartaㅍ)
 #### [5/13~5/19 프로그래밍 기초 : 알고리즘의 신세계 😵‍💫](https://github.com/saehwa95/algorithm)
 #### [5/20~5/26 주특기 입문 : Component, Props, State 오호라 신기하구나 🤓](https://github.com/saehwa95/ReactStudy/tree/main/week1)

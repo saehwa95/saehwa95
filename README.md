@@ -11,7 +11,7 @@
 
 #### [6/26~ Diary](https://github.com/saehwa95/Diary)
 #### [6/3~ 내가 사용하는 언어는 알고 가야지? Codeit-JavaScript :smirk:](https://github.com/saehwa95/TIL/tree/main/JavaScript/Codeit)
-#### [6/27~ 미리미리 준비하자 CoreJavaScript :sunglasses:](https://github.com/saehwa95/CoreJavaScript)
+
    
    
    
